@@ -4,7 +4,7 @@ Install [**devkitARM**](http://devkitpro.org/wiki/Getting_Started/devkitARM).
 
 Then run the following commands.
 
-	export DEVKITPRO=/opt/devkitPro
+	export DEVKITPRO=/opt/devkitpro
 	echo "export DEVKITPRO=$DEVKITPRO" >> ~/.bashrc
 	export DEVKITARM=$DEVKITPRO/devkitARM
 	echo "export DEVKITARM=$DEVKITARM" >> ~/.bashrc
